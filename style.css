@@ -1,0 +1,23 @@
+.container {
+  background-color: bisque;
+  background-image: url(https://3pdm4l3pxez02ibjgi1llqtv-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/solar-for-all-seasons.jpg);
+
+}
+.row1 {
+  background-color:turquoise;
+  padding: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+.row2 {
+  background-color:rgb(133, 238, 227);
+  padding: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.row3 {
+  background-color:rgb(190, 240, 235);
+  padding: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card1 {
+  background-color: rgb(243, 198, 223);
+}
